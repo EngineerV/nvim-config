@@ -1,0 +1,7 @@
+require("engineer.plugins-setup")
+require("engineer.core.options")
+require("engineer.core.keymaps")
+require("engineer.core.colorscheme")
+require("engineer.plugins.comment")
+require("engineer.plugins.nvim-tree")
+require("engineer.plugins.lualine")
