@@ -119,6 +119,11 @@ _G.packer_plugins = {
     path = "/Users/vadim/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
     url = "https://github.com/lewis6991/gitsigns.nvim"
   },
+  gruvbox = {
+    loaded = true,
+    path = "/Users/vadim/.local/share/nvim/site/pack/packer/start/gruvbox",
+    url = "https://github.com/morhetz/gruvbox"
+  },
   ["lspkind.nvim"] = {
     loaded = true,
     path = "/Users/vadim/.local/share/nvim/site/pack/packer/start/lspkind.nvim",
@@ -210,6 +215,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/vadim/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
+  },
+  vim = {
+    loaded = true,
+    path = "/Users/vadim/.local/share/nvim/site/pack/packer/start/vim",
+    url = "https://github.com/dracula/vim"
   },
   ["vim-maximizer"] = {
     loaded = true,
