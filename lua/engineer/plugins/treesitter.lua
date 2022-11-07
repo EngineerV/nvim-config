@@ -30,6 +30,7 @@ treesitter.setup({
 		"dockerfile",
 		"gitignore",
 		"python",
+		"svelte",
 	},
 	-- auto install above language parsers
 	auto_install = true,
