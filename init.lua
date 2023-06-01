@@ -14,3 +14,5 @@ require("engineer.plugins.lsp.null-ls")
 require("engineer.plugins.autopairs")
 require("engineer.plugins.treesitter")
 require("engineer.plugins.gitsigns")
+vim.opt.langmap =
+	'ФИСВУАПРШОЛДЬТЩЗЙКЫЕГМЦЧНЯЖЭБЮ;ABCDEFGHIJKLMNOPQRSTUVWXYZ:"<>,жфисвуапршолдьтщзйкыегмцчня;;abcdefghijklmnopqrstuvwxyz'
