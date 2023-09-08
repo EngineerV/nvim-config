@@ -4,7 +4,7 @@ vim.g.mapleader = " "
 local keymap = vim.keymap -- for conciseness
 
 vim.opt.langmap =
-	'ФИСВУАПРШОЛДЬТЩЗЙКЫЕГМЦЧНЯЖЭБЮ;ABCDEFGHIJKLMNOPQRSTUVWXYZ:"<>,жфисвуапршолдьтщзйкыегмцчня;;abcdefghijklmnopqrstuvwxyz'
+	'ФИСВУАПРШОЛДЬТЩЗЙКЫЕГМЦЧНЯЖЭБЮ;ABCDEFGHIJKLMNOPQRSTUVWXYZ:"<>,%жфисвуапршолдьтщзйкыегмцчня;$;abcdefghijklmnopqrstuvwxyz'
 ---------------------
 -- General Keymaps
 ---------------------
